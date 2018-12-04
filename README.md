@@ -1,22 +1,22 @@
 ## 5001 Kaggle
 
-python version
+python version  
 Python 2.7.15 (base: conda)
 
-xgboost
+xgboost  
 pip install xgboost
 
-train.csv and test.csv
+train.csv and test.csv  
 Directly downloaded from Kaggle
 
-main.py
+main.py  
 sklearn sgd regression
 
-bigboost.py
+bigboost.py  
 xgbooost regression
 
-notes.py
+notes.py  
 misc notes
 
-post.py
+post.py  
 picks the best performances from generated models
